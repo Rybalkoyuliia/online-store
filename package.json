@@ -2,7 +2,7 @@
   "name": "online-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Rybalkoyuliia/online-store/",
+  "homepage": "https://github.com/online-store/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/jest-dom": "^5.16.3",
