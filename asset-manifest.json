@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rybalkoyuliia/online-store/static/css/main.17b9fa01.css",
-    "main.js": "/Rybalkoyuliia/online-store/static/js/main.e03d8931.js",
-    "index.html": "/Rybalkoyuliia/online-store/index.html",
-    "main.17b9fa01.css.map": "/Rybalkoyuliia/online-store/static/css/main.17b9fa01.css.map",
-    "main.e03d8931.js.map": "/Rybalkoyuliia/online-store/static/js/main.e03d8931.js.map"
+    "main.css": "/online-store/static/css/main.17b9fa01.css",
+    "main.js": "/online-store/static/js/main.ae54b76f.js",
+    "index.html": "/online-store/index.html",
+    "main.17b9fa01.css.map": "/online-store/static/css/main.17b9fa01.css.map",
+    "main.ae54b76f.js.map": "/online-store/static/js/main.ae54b76f.js.map"
   },
   "entrypoints": [
     "static/css/main.17b9fa01.css",
-    "static/js/main.e03d8931.js"
+    "static/js/main.ae54b76f.js"
   ]
 }
